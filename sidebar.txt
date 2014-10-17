@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pug:home|Door43 (pug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pug|d43-pug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pug/archive/master.zip|d43-pug.zip]]
+
+**Recent Changes**
+{{changes>ns = pug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pug|Ethnologue data]]
+
